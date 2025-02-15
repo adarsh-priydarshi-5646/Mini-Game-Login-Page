@@ -14,8 +14,8 @@ A simple and interactive login page with a mini-game built using **HTML, CSS, an
 - **JavaScript** for interactivity
 
 ## 📸 Preview
-![Project Preview](<img width="1511" alt="L" src="https://github.com/user-attachments/assets/6c06f28f-8ab2-4115-9967-5712fa0ecd33" />
-)
+<img width="1511" alt="L" src="https://github.com/user-attachments/assets/6c06f28f-8ab2-4115-9967-5712fa0ecd33" />
+
 
 ## 📂 Installation
 1. Clone the repository:
